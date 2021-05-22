@@ -16,6 +16,6 @@ En este trabajo se encontrará lo siguiente:
 9. Matriz de confusión.
 10. Verificación de las predicciones con ejemplos de comentarios positivos y negativos.
 11. Implementación de la librería varderSentiment para detección de polaridad de los comentarios e influencia de las palabras en los sentimientos detectados.
-12. Implementación de la librería Gensim para la conformación de cluster de palabras para las películas y videos de amazon.
+12. Implementación de la librería Gensim word2vec para la conformación de cluster de palabras para las películas y videos de amazon.
 
 Consulte el cuaderno renderizado para gráficos e imágenes aqui: 
