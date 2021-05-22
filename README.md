@@ -4,10 +4,10 @@ Diplomado Inteligencia Artificial
 
 Integrantes
 
-Juan Carlos Morales
-Freddy Cardozo
-Leidy Milena Diaz
-Edwin Leonardo Buitrago
+* Juan Carlos Morales
+* Freddy Cardozo
+* Leidy Milena Diaz
+* Edwin Leonardo Buitrago
 
 Proyecto de inteligencia artificial y deeplearnig sobre procesamiento de lenguaje natural, para el análisis de sentimientos de los comentarios de películas y videos de amazon.
 
