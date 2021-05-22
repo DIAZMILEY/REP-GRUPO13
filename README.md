@@ -18,4 +18,4 @@ En este trabajo se encontrará lo siguiente:
 11. Implementación de la librería varderSentiment para detección de polaridad de los comentarios e influencia de las palabras en los sentimientos detectados.
 12. Implementación de la librería Gensim word2vec para la conformación de cluster de palabras para las películas y videos de amazon.
 
-Consulte el cuaderno renderizado para gráficos e imágenes aqui: 
+Consulte el cuaderno renderizado para gráficos e imágenes aqui: [Análisis de sentimientos amazon] (https://nbviewer.jupyter.org/github/DIAZMILEY/REP-GRUPO13/blob/main/Proyecto_PLN_An%C3%A1lisis_de_Sentimientos_Amazon.ipynb)
