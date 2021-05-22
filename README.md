@@ -1,7 +1,17 @@
-# REP-GRUPO5
-Repositorio grupo 13 Diplomado Inteligencia Artificial
+# REPOSITORIO-GRUPO 13
 
-Proyecto de inteligencia artificial sobre procesamiento de lenguaje natural para el análisis de sentimientos de los comentarios de películas y videos de amazon (en inglés).
+Diplomado Inteligencia Artificial
+
+Integrantes
+
+Juan Carlos Morales
+Freddy Cardozo
+Leidy Milena Diaz
+Edwin Leonardo Buitrago
+
+Proyecto de inteligencia artificial y deeplearnig sobre procesamiento de lenguaje natural, para el análisis de sentimientos de los comentarios de películas y videos de amazon.
+
+Texto tratado en inglés.
 
 En este trabajo se encontrará lo siguiente:
 
