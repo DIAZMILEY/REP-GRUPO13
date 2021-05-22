@@ -1,6 +1,6 @@
 # REPOSITORIO-GRUPO 13
 
-Diplomado Inteligencia Artificial
+Diplomado en Inteligencia Artificial y aprendizaje profundo
 
 Integrantes
 
@@ -9,7 +9,7 @@ Integrantes
 * Leidy Milena Diaz
 * Edwin Leonardo Buitrago
 
-Proyecto de inteligencia artificial y deeplearnig sobre procesamiento de lenguaje natural, para el análisis de sentimientos de los comentarios de películas y videos de amazon.
+Proyecto de inteligencia artificial y aprendizaje profundo sobre procesamiento de lenguaje natural, para el análisis de sentimientos de los comentarios de películas y videos de amazon.
 
 Texto tratado en inglés.
 
